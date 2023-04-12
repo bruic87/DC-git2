@@ -5,3 +5,7 @@ Projeto para testar comandos git nas aulas da turma fs01sul
 - texto 2
 
 ## meu segundo título
+
+- Minha nova mudança
+
+- Nova informação
