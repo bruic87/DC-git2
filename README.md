@@ -9,3 +9,5 @@ Projeto para testar comandos git nas aulas da turma fs01sul
 - Minha nova mudança
 
 - Nova informação
+
+- alteração no novo branch
